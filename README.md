@@ -1,3 +1,3 @@
 # booklist-with-javascript
 
-Booklistinh app with javascript and Bootstrap.
+Booklisting app with javascript and Bootstrap.
